@@ -21,5 +21,5 @@ This project focuses on data cleaning and exploratory data analysis (EDA) of the
 - Feature understanding
 
 ## 🎯 Purpose
-This project is created for learning data analysis and portfolio building.
+This project is created for learning data analysis.
 
